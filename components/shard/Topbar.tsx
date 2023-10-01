@@ -25,15 +25,14 @@ export default function Topbar() {
               </div>
             </SignOutButton>
           </SignedIn>
-
-          <OrganizationSwitcher
-            appearance={{
-              elements: {
-                organizationSwitcherTrigger: 'py-2 px-4',
-              },
-            }}
-          />
         </div>
+        <OrganizationSwitcher
+          appearance={{
+            elements: {
+              organizationSwitcherTrigger: 'py-2 px-4',
+            },
+          }}
+        />
       </div>
     </nav>
   )
