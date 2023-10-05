@@ -15,7 +15,7 @@ export default async function Page() {
 
   return (
     <main className='mx-auto flex max-w-3xl flex-col justify-start px-10 py-20'>
-      <h1 className='head-text'>onbording</h1>
+      <h1 className='head-text'>onboarding</h1>
       <p className='mt-3 text-base-regular text-light-2'>
         complete your profile to use app
       </p>
