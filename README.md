@@ -18,7 +18,7 @@ guid line: https://www.youtube.com/watch?v=O5cmLDVTgAs&t=115s
 - Explore & integrate new Next.js layout route groups
 - Validate data with Zod
 - Manage forms with react hook form
-- Create reusable components
+- reusable components
 - Build a solid application architecture
 - Deploy 
 
