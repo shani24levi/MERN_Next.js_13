@@ -4,7 +4,6 @@ Development of a learning project in REACT.TS at Primerock next
 
 guid line: https://www.youtube.com/watch?v=O5cmLDVTgAs&t=115s
 
-
 ## Summary
 
 - Master Next.js 13.4 with Server Side Rendering
@@ -20,7 +19,7 @@ guid line: https://www.youtube.com/watch?v=O5cmLDVTgAs&t=115s
 - Manage forms with react hook form
 - reusable components
 - Build a solid application architecture
-- Deploy 
+- Deploy
 
 ## Getting Started
 
@@ -42,7 +41,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Next.js, take a look at the following resources :
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
